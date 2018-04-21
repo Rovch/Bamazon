@@ -4,7 +4,7 @@
 
 
 # User can choose a category (based on current departments in database)
-![images/1.png]
+![](images/1.png)
 
 # user is then shown current items in that department with correct data
 ![images/2]
